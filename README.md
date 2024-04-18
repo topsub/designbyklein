@@ -1,4 +1,4 @@
-<p align="center"><a href="https://designbyklein.com" target="_blank"><img src="https://designbyklein.com/img/logo.jpg" width="400"></a></p>
+<p align="center"><a href="https://designbyklein.com" target="_blank"><img src="https://designbyklein.com/img/dbk-logo.png" width="400"></a></p>
 
 ## About Design by Klein
 
