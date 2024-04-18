@@ -13,8 +13,7 @@
         <link rel="apple-touch-icon" href="icon.png">
         <!-- Place favicon.ico in the root directory -->
         <link href="https://fonts.googleapis.com/css?family=Dosis" rel="stylesheet">
-        <link rel="stylesheet" href="css/normalize.css">
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
         <link rel="stylesheet" href="css/main.css">
     </head>
     <body>
@@ -24,64 +23,56 @@
 
         <!-- Add your site or application content here -->
         <div class="container">
-            <div class="row mt-5">
-                <div class="col-lg">
-                    <img src="/img/logo.jpg">
+            <div class="row my-5">
+                <div class="col">
+                    <a href="/"><img src="/img/dbk-logo.png" class="img-fluid" title="Design by Klein"></a>
                 </div>
-                <div class="col-lg">
-                    <h2 class="text-right">Interactive  <span class="text-orange">innovation</span> <span class="text-red">defined</span></h2>
-                </div>
-            </div>
-            <div class="row mb-5">
-                <div class="col-lg">
-                    <img src="/img/dbk-text.png">
+                <div class="col text-end">
+                    <h2>Infrastructure <span class="text-orange">Solutions</span> <span class="text-red">Defined</span></h2>
                 </div>
             </div>
             <div class="row mb-5">
-                <div class="col-lg"><p><span class="text-orange">Designbyklein</span> is an established user experience design firm located in Charlotte, NC, fully equipped to offer a full host of consulting, design, and development services to companies big and small. Our team has grown and so must our site. We're currently developing our new portfolio site to better showcase our new work. </p>
+                <div class="col"><p><span class="text-orange">Designbyklein</span> is a well-established user experience design firm based in Huntersville, North Carolina. We are equipped with comprehensive capabilities to provide a wide range of consulting, design, and development services tailored to the needs of both large enterprises and small businesses alike. Our team has grown and so must our site. We're currently developing our new portfolio site to better showcase our new work. </p>
                     <p>In the mean time if you need work done? Feel free to contact us at <span class="text-orange">704.779.4239</span> or email us at <span class="text-orange">info@designbyklein.com.</span></p>
                 </div>
             </div>
             <div class="row">
-                <div class="col-lg">
+                <div class="col">
                     <h2 class="clearfix"><span class="text">Contact:</span><span class="hr-line"></span></h2>
                     <p class="mb-0">Phone: 704.779.4239</p>
                     <p>Email: info@designbyklein.com</p>
                 </div>
-                <div class="col-lg">
+                <div class="col">
                     <h2 class="clearfix"><span class="text">Services:</span><span class="hr-line"></span></h2>
                     <ul>
-                        <li>Consulting</li>
-                        <li>Web Application Development</li>
+                        <li>Ongoing Support and Consulting</li>
+                        <li>Business Solutions</li>
+                        <li>Web Development</li>
                         <li>Database Architecture</li>
-                        <li>CS-Cart Consulting and Setup</li>
-                        <li>Custom Hosting</li>
+                        <li>eCommerce Development</li>
+                        <li>Dedicated Hosting</li>
+                        <li>Infrastructure Solutions</li>
                     </ul>
                 </div>
             </div>
             <div class="row">
-                <div class="col-lg">
+                <div class="col">
                     <h2 class="clearfix"><span class="text">Our Work:</span><span class="hr-line"></span></h2>
                 </div>
             </div>
             <div class="row mb-2">
-                <div class="col-lg"><img class="img-responsive img-border" src="/img/our-work/1095-ez/upload_1_1095-listing.jpg"></div>
-                <div class="col-lg"><img class="img-responsive img-border" src="/img/our-work/commissions-ez/upload_1_commission-listings.jpg"></div>
+                <div class="col"><img class="img-responsive img-border" src="/img/our-work/1095-ez/upload_1_1095-listing.jpg"></div>
+                <div class="col"><img class="img-responsive img-border" src="/img/our-work/commissions-ez/upload_1_commission-listings.jpg"></div>
             </div>
             <div class="row mb-2">
-                <div class="col-lg"><img class="img-responsive img-border" src="/img/our-work/bullys-performance/upload_1_listing-bullys.jpg"></div>
-                <div class="col-lg"><img class="img-responsive img-border" src="/img/our-work/mom-4-life/upload_1_listing-mom4life.jpg"></div>
+                <div class="col"><img class="img-responsive img-border" src="/img/our-work/bullys-performance/upload_1_listing-bullys.jpg"></div>
+                <div class="col"><img class="img-responsive img-border" src="/img/our-work/mom-4-life/upload_1_listing-mom4life.jpg"></div>
             </div>
             <div class="row mb-2">
-                <div class="col-lg"><img class="img-responsive img-border" src="/img/our-work/raptor-svt-parts/upload_1_listing-raptor.jpg"></div>
-                <div class="col-lg"><img class="img-responsive img-border" src="/img/our-work/booty-bean-bag/upload_1_listing.jpg"></div>
+                <div class="col"><img class="img-responsive img-border" src="/img/our-work/raptor-svt-parts/upload_1_listing-raptor.jpg"></div>
+                <div class="col"><img class="img-responsive img-border" src="/img/our-work/booty-bean-bag/upload_1_listing.jpg"></div>
             </div>
         </div>
-        <script src="js/vendor/modernizr-3.5.0.min.js"></script>
-        <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
-        <script>window.jQuery || document.write('<script src="js/vendor/jquery-3.2.1.min.js"><\/script>')</script>
-        <script src="js/plugins.js"></script>
-        <script src="js/main.js"></script>
 
         <!-- Google Analytics: change UA-XXXXX-Y to be your site's ID. -->
         <script>
