@@ -4,13 +4,16 @@
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
         <title>Charlotte eCommerce Digital Marketing Agency | Designbyklein</title>
-        <meta name="keywords" content="web development, web design, cs-cart, content management systems, web applications" />
+        <meta name="keywords" content="web development, web design, cs-cart, content management systems, web applications, ecommerce solutions, small business solutions" />
         <meta name="author" content="Josh Klein - Designbyklein.com" />
         <meta name="description" content="Josh Klein is a freelance web developer with over 15 years of experience in content management systems, cs-cart, web application and database architecture.">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <link rel="manifest" href="site.webmanifest">
-        <link rel="apple-touch-icon" href="icon.png">
+        <link rel="icon" type="image/x-icon" href="/img/favicon/favicon.ico">
+        <link rel="apple-touch-icon" sizes="180x180" href="/img/favicon/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon/favicon-16x16.png">
+        <link rel="manifest" href="/img/favicon/site.webmanifest">
         <!-- Place favicon.ico in the root directory -->
         <link href="https://fonts.googleapis.com/css?family=Dosis" rel="stylesheet">
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
